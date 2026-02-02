@@ -12,3 +12,4 @@ Utilizei Python e conceitos de Estatística para modelar uma curva de Distribui�
 * Python (Lógica)
 * Matplotlib (Gráfico)
 * Scipy (Cálculos de Probabilidade)
+<img width="855" height="561" alt="image" src="https://github.com/user-attachments/assets/a830c25b-cf8c-475c-9215-b60819836a3a" />
